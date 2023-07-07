@@ -162,7 +162,7 @@
             android:layout_margin="5dp"
             android:contentDescription="image"
             android:scaleType="fitXY"
-            android:src="@drawable/Undo_37102" />
+            android:src="@drawable/undo_37102" />
         <ImageButton
             android:id="@+id/paintBrush"
             android:layout_width="50dp"
@@ -171,6 +171,15 @@
             android:contentDescription="image"
             android:scaleType="fitXY"
             android:src="@drawable/brush" />
+
+        <ImageButton
+            android:id="@+id/save"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:contentDescription="image"
+            android:scaleType="fitXY"
+            android:src="@drawable/save" />
     </LinearLayout>
 
 
